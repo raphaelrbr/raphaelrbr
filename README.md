@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 My name is Raphael and I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I am currently working at Inventa
-
 - 💻 I believe technology will continue to make life better for all people.
 
 - :seedling: I like to work on problems with a high level of abstraction and ambiguity.
